@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 import { styles } from "../styles";
 import { services } from "../constants";
 import { fadeIn, textVariant } from '../utils/motion';
-import { SectionWrapper } from '../hoc/Index';
 const ServiceCard = ({ index, title, icon }) => (
   <Tilt className='xs:w-[250px] w-full'>
     <motion.div
@@ -63,4 +62,4 @@ const About = () => {
   );
 };
 
-export default SectionWrapper(About, "about")
+export default About;
