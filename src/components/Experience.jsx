@@ -6,7 +6,7 @@ import { styles } from "../styles";
 import "react-vertical-timeline-component/style.min.css";
 import { experiences } from "../constants";
 import {textVariant } from "../utils/motion";
-import { SectionWrapper } from "../hoc/SectionWrapper/Index";
+import { SectionWrapper } from "../hoc/SectionWrapper/Index.js";
 
 const ExperienceCard = ({ experience }) => {
   return (
