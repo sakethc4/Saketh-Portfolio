@@ -1,4 +1,4 @@
-I deployed my website on vercelfeel free to visit!
+I deployed my website on vercel feel free to visit!
 Still fixing bugs on the site and the 3d models take a second to render. 
 
 Website: https://saketh-portfolio.vercel.app/
