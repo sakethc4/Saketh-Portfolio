@@ -1,6 +1,6 @@
 I deployed my website on vercel feel free to visit!
 Still fixing bugs on the site and the 3d models take a second to render. 
-
+Very much in progress and still needs lots of formatting changes.
 Website: https://saketh-portfolio.vercel.app/
 
 # React + Vite
