@@ -1,3 +1,7 @@
+I deployed my website on vercel saketh-portfolio.vercel.app
+feel free to visit!
+Still fixing bugs on the site and the 3d models take a second to render. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
