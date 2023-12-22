@@ -1,6 +1,7 @@
-I deployed my website on vercel saketh-portfolio.vercel.app
-feel free to visit!
+I deployed my website on vercelfeel free to visit!
 Still fixing bugs on the site and the 3d models take a second to render. 
+
+Website: https://saketh-portfolio.vercel.app/
 
 # React + Vite
 
