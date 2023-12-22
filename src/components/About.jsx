@@ -43,7 +43,7 @@ const About = () => {
 
     <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
       This portfolio site is still under construction, but I plan to utilize it to showcase
-      my research and side projects. Below are my skills => 
+      my research and side projects. Below are my skills 
     </motion.p>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]">
       - Experienced in working with solution design, implementation, and deployment.
