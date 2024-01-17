@@ -24,7 +24,7 @@ const Navbar = () => {
             window.scrollTo(0,0);
           }}
           >
-            <img src="Logoblackwhiteletters.png" alt="logo" className="w-9 h-9 object-contain" />
+            <h1 Saketh Chintalapati alt="logo" className="w-9 h-9 object-contain" />
             
           </Link>
           <ul className="list-none hidden sm:flex flex-row  gap-10">
