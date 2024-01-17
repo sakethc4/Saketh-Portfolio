@@ -121,15 +121,13 @@ import {
 
 const experiences = [
 {
-  title: "SWE intern @ WebstaurauntStore",
-  company_name: "WebstaurauntStore",
+  title: "Future experiences placeholder",
+  company_name: "Summer 24",
   icon: web,
   iconBg: "#383E56",
-  date: "Incoming SWE Intern",
+  date: "date",
   points: [
-    "Full stack web dev who will be working on the main e-commerce website",
-    "Will be working with C#, React, and Javascript.",
-    "Additionally, will be working with elastic search and converting query language to SQL or elastic search queries",
+    "Future experiences start at this value on vertical timeline",
   ],
 },
 {
