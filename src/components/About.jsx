@@ -51,7 +51,7 @@ const About = () => {
       - Skilled at developing intuitive user interfaces and I'm proficient in HTML, CSS, JavaScript, TypesScript, and React. 
       </motion.p>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]">
-      - I Enjoy learning and working with backend technologies, and currently learning more about serverless architecture implementations. 
+      - I also have a background working with backend technologies, and I am currently learning more about serverless architecture implementations. 
      </motion.p>
       </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
