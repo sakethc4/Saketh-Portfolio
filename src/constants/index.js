@@ -22,7 +22,6 @@ import {
     carrent,
     jobit,
     tripguide,
-    webStore,
     threejs,
     github,
   } from "../assets";
@@ -120,7 +119,7 @@ const experiences = [
 {
   title: "Software Engineer Intern",
   company_name: "WebstaurantStore",
-  icon: webStore,
+  icon: web,
   iconBg: "#383E56",
   date: "Summer 2024",
   points: [
