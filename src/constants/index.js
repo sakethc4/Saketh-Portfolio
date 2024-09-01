@@ -23,7 +23,6 @@ import {
     jobit,
     tripguide,
     threejs,
-    umd,
     github,
   } from "../assets";
 
@@ -132,7 +131,7 @@ const experiences = [
 {
     title: "Quantum Machine Learning Researcher",
     company_name: "University of Maryland, College Park",
-    icon: umd,
+    icon: web,
     iconBg: "#E6DEDD",
     date: "Spring 2024",
     points: [
