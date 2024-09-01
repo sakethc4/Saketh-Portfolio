@@ -86,10 +86,6 @@ import {
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -123,7 +119,7 @@ const experiences = [
 {
   title: "Software Engineer Intern",
   company_name: "WebstaurantStore",
-  icon: web,
+  icon: webstore,
   iconBg: "#383E56",
   date: "Summer 2024",
   points: [
