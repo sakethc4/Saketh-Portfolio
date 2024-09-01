@@ -41,8 +41,9 @@ const About = () => {
     </motion.div>
 
     <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      Welcome to my portfolio Site. I'm a software engineer with a passion for building web applications. 
-      I have a strong background in computer science and I'm skilled in full-stack development, algorithms. 
+      Welcome to my portfolio Site. I'm a Computer Science Student with a passion for building applications that consumers love. 
+      I have a  background in computer science and I'm skilled in full-stack development, data structures/algorithms, and 
+      development throughout the entire software lifecycle. 
     </motion.p>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]">
       - Experienced in working with solution design, implementation, CI/CD pipelines, and deployment.
@@ -50,7 +51,7 @@ const About = () => {
       - Skilled at developing intuitive user interfaces and I'm proficient in HTML, CSS, JavaScript, TypesScript, and React. 
       </motion.p>
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3x1 leading-[30px]">
-      - Enjoy learning and working with backend technologies, and currently learning more about serverless architecture implementations. 
+      - I Enjoy learning and working with backend technologies, and currently learning more about serverless architecture implementations. 
      </motion.p>
       </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
