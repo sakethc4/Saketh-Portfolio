@@ -3,6 +3,8 @@ Still fixing bugs on the site and the 3d models take a second to render.
 Very much in progress and still needs lots of formatting changes.
 Website: https://saketh-portfolio.vercel.app/
 
+The Vertical Timeline and Components are credited to JavaScript Mastery
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
