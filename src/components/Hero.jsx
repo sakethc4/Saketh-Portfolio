@@ -23,7 +23,7 @@ const Hero = () => {
       fontWeight: 800,
       marginTop: 8
     }}
-  > The model below spins around just click on it and move your mouse to manipulate it : )</p>
+  > The model below spins around (takes a second to load) just click on it and move your mouse to manipulate it : )</p>
   <p
   style = {{
     fontSize: 14,

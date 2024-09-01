@@ -121,13 +121,15 @@ import {
 
 const experiences = [
 {
-  title: "Future experiences placeholder",
-  company_name: "Summer 24",
+  title: "Software Engineer Intern",
+  company_name: "WebstaurantStore",
   icon: web,
   iconBg: "#383E56",
-  date: "date",
+  date: "Summer 2024",
   points: [
-    "Future experiences start at this value on vertical timeline",
+    "Independently developed and deployed 13 feature releases for customer facing e-commerce site, WebstaurantStore.com, which serves millions of users.",
+    "Improved page load-times on 6 high traffic pages across the solution by transitioning site meta data calls to catalog calls. Mocked and added unit tests increasing unit test coverage by 15%.",
+    "Spearheaded 7 user-facing features/modals using TypeScript, React, Tailwind CSS, C#,  and Client-Side/Server-Side Validation that are all in production.",
   ],
 },
 {
@@ -137,7 +139,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Spring 2024",
     points: [
-      "QML researcher who will be working under Dr. Shabnam Jabeen",
+      "Conducting research on reinforcement learning in the context of variational quantum circuits in collaboration with the National Quantum Laboratory at Maryland (QLAB) under Dr. Shabnam Jabeen. ",
     ],
   },
   
@@ -157,68 +159,43 @@ const testimonials = [
 
 const projects = [
     {
-      name: "Under construction",
+      name: "Crime-Aid",
       description:
-        "Will be finishing soon",
+        "1st (Data Science) & Best Data Science Hack at HooHacks (UVA's Premier Hackathon) 2024",
       tags: [
         {
-          name: "n/a",
+          name: "Machine Learning",
           color: "blue-text-gradient",
         },
         {
-          name: "n/a",
+          name: "Data Science (Python, Pandas, NumPy, Scikit-Learn)",
           color: "green-text-gradient",
         },
         {
-          name: "n/a",
+          name: "Frontend Development (HTML, JavaScript)",
           color: "pink-text-gradient",
         },
       ],
       image: github,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://devpost.com/software/crime-aid",
     },
     {
-      name: "Under Construction",
+      name: "MedScribe",
       description:
-      "Will be finishing soon",
+      "1st Place at George Hacks & Best Overall Hack (George Washington University's Premier Hackathon) 2024",
       tags: [
         {
-          name: "n/a",
+          name: "Frontend Development (React JS, JavScript, MUI CORE)",
           color: "blue-text-gradient",
         },
         {
-          name: "n/a",
+          name: "Backend Development (Python (Flask), OpenAI API, Google Translate API)",
           color: "green-text-gradient",
-      },
-      {
-        name: "n/a",
-        color: "pink-text-gradient",
       },
     ],
     image: github,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sakethc4/MedScribe-Public",
   },
-  {
-    name: "Under Construction",
-    description:
-      "Will be finishing soon",
-    tags: [
-      {
-        name: "n/a",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "n/a",
-        color: "green-text-gradient",
-    },
-    {
-      name: "n/a",
-      color: "pink-text-gradient",
-    },
-  ],
-  image: github,
-  source_code_link: "https://github.com/",
-},
 ];
 
 export { services, technologies, experiences, testimonials, projects };
