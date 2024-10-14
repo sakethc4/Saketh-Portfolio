@@ -122,11 +122,13 @@ const experiences = [
   icon: web,
   iconBg: "#383E56",
   date: "Summer 2024",
-  points: [
-    "Independently developed and deployed 13 feature releases for customer facing e-commerce site, WebstaurantStore.com, which serves millions of users.",
-    "Improved page load-times on 6 high traffic pages across the solution by transitioning site meta data calls to catalog calls. Mocked and added unit tests increasing unit test coverage by 15%.",
-    "Spearheaded 7 user-facing features/modals using TypeScript, React, Tailwind CSS, C#,  and Client-Side/Server-Side Validation that are all in production.",
-  ],
+    points: [
+    "Developed and deployed 13 feature releases for WebstaurantStore (1M+ users) using TypeScript, React, and C#.",
+    "Migrated outdated site metadata calls to a custom API, reducing latency by 23% on 9 high-traffic pages.",
+    "Built a comprehensive testing suite in C# for metadata call transitions, achieving 98% coverage for migrated calls.",
+    "Implemented client-side validation on scholarship pages, resolving critical form submission issues in production."
+],
+
 },
 {
     title: "Quantum Machine Learning Researcher",
